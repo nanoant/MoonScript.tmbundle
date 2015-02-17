@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C90BD741-5D6E-4AC9-AC29-79FD27B23BF4</string>
+			<string>5A0A8BC3-E5F8-4A18-AE96-6839B9F87F0E</string>
+			<string>------------------------------------</string>
+			<string>CA34BCC7-51E3-4395-807B-0F630CD14F6B</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>MoonScript</string>
 	<key>ordering</key>
